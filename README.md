@@ -28,9 +28,6 @@
 
 ---
 
-[![npm version](https://badge.fury.io/js/%40voxify%2Fmessage-format.svg)](https://www.npmjs.com/package/@voxify/message-format)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 ## Overview
 
 `@voxify/message-format` is a versatile JavaScript/TypeScript library for handling messages, providing functionalities for working with placeholders,
