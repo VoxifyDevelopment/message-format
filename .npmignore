@@ -1,0 +1,5 @@
+node_modules/
+tests/
+*.txt
+LICENSE
+licenseConfig.json
